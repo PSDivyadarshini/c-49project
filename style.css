@@ -1,0 +1,33 @@
+ h1{
+ color:blue
+ }
+ 
+ .header{
+     background-color: cornflowerblue;
+     display: flex;
+     justify-content: space-between;
+
+ }
+ .item{
+     border-radius: 20px;
+     background-color: darkgrey;
+     width: 310px;
+     font-family: fantasy;
+     
+
+ }
+ .grid{
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: space-evenly;
+ }
+
+ .grid img{
+ border: 2px solid black;
+ border-radius: 50px;
+
+ }
+
+ 
+ 
+ 
